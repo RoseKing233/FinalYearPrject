@@ -102,4 +102,19 @@ public class EmployeeController {
         PageResult pageResult = employeeService.pageQuery(employeePageQueryDTO);//后续定义
         return Result.success(pageResult);
     }
+
+    /**
+     * 启用禁用员工账号
+     * @param status
+     * @param id
+     * @return
+     */
+    @PostMapping("/status/{status}")
+    @ApiOperation("Enable or disable an employee account")
+    //非查询可以不需要加上<泛型>，因为这个都是返回的code 1 and 0仅仅为状态
+    public Result startOrStop(@PathVariable Integer status,Long id){
+        log.info("启用禁用员工账号：{},{}",status,id);
+        employeeService.startOrStop(status,id);//后绪步骤定义
+        return Result.success();
+    }
 }
