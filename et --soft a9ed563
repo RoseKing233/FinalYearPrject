@@ -1,0 +1,23 @@
+[33ma9ed563[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m HEAD@{0}: reset: moving to HEAD
+[33ma9ed563[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m HEAD@{1}: reset: moving to HEAD
+[33ma9ed563[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m HEAD@{2}: reset: moving to HEAD
+[33ma9ed563[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m HEAD@{3}: reset: moving to HEAD~1
+[33m723b014[m HEAD@{4}: reset: moving to HEAD~1
+[33me756204[m HEAD@{5}: reset: moving to HEAD~1
+[33m5927f47[m HEAD@{6}: reset: moving to HEAD~1
+[33m187d5be[m HEAD@{7}: reset: moving to HEAD~1
+[33m4fed066[m HEAD@{8}: reset: moving to HEAD~1
+[33m10bee85[m HEAD@{9}: commit: 微信用户登录业务代码
+[33m4fed066[m HEAD@{10}: commit: 店铺营业状态设置业务代码
+[33m187d5be[m HEAD@{11}: commit: 套餐起售/停售以及基础redis加入业务代码
+[33m5927f47[m HEAD@{12}: reset: moving to HEAD
+[33m5927f47[m HEAD@{13}: commit: 修改菜品业务代码
+[33me756204[m HEAD@{14}: commit: 删除菜品业务代码
+[33m723b014[m HEAD@{15}: commit: 新增菜品业务代码
+[33ma9ed563[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m HEAD@{16}: commit: 公共字段填充
+[33mfe7f456[m[33m ([m[1;31morigin/master[m[33m)[m HEAD@{17}: commit: 分类管理模块
+[33m8ac3977[m HEAD@{18}: commit: 编辑员工信息和查询id
+[33m4f3ac80[m HEAD@{19}: commit: 启用或者禁用员工账号
+[33m30a6ec2[m HEAD@{20}: commit: 员工分页查询
+[33m2bcdd50[m HEAD@{21}: commit: 员工业务代码第一次
+[33mddb8d8d[m HEAD@{22}: commit (initial): initial takeaway code
